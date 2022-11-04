@@ -1,2 +1,2 @@
-# Robust-Control-Design-on-Scilab-Hybrid-Remotely-Operated-Vehicle
+# Hybrid-Remotely-Operated-Vehicle
 code
